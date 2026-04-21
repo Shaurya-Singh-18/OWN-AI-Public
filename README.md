@@ -341,4 +341,6 @@ Recompile and restart.
 
 ---
 
+## License
 
+MIT — use this however you want.
